@@ -1,0 +1,7 @@
+kamera matris değerleri
+
+Kalibrasyon Başarılı!
+Kamera Matrisini: [[631.73474764   0.         230.30676439]
+ [  0.         619.38636725 228.45809363]
+ [  0.           0.           1.        ]]
+Distorsiyon Parametreleri: [[-0.27870423  1.19117131  0.01317574 -0.02699152 -1.48986633]]
